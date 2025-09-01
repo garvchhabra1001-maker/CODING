@@ -5,7 +5,8 @@ int main() {
     for (int i = 100; i <= 200; i ++) {
         printf("%d ", i);
     }
-    printf("\n"); // Add a newline for better formatting
+    printf("\n"); 
     return 0;
 
 }
+
