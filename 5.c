@@ -15,7 +15,7 @@ int main() {
    
     if (divisor == 0) {
         printf("Error: Division by zero is not allowed.\n");
-        return 1; 
+        return 0; 
     }
 
   
@@ -28,4 +28,5 @@ int main() {
     printf("Remainder: %d\n", remainder);
 
     return 0; 
+
 }
